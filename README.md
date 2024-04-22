@@ -1,12 +1,12 @@
 ### Olá! 😎👋
-# Seja Bem-vindo(a) ao meu perfil do GitHub!
+# Seja Bem-vindo(a) ao meu perfil!
 
 ## Sobre Mim
-Eu sou Samer Macário, Técnico em Informática, atualmente cursando Bacharelado em Sistemas de Informação, IFF, campus Itaperuna. Estou interessado(a) em [alguns de seus interesses ou tecnologias favoritas]. Sempre em busca de aprender algo novo e colaborar em projetos interessantes.
+Eu sou Samer Macário, Técnico em Informática, atualmente cursando Bacharelado em Sistemas de Informação, no IFF - campus Itaperuna. Sempre em busca de aprender algo novo e colaborar em projetos interessantes.
 
 ## Principais Tecnologias
 - Linguagens de Programação: Java, C, Python, HTML/CSS
-- Ferramentas: VSCode , Trello, 
+- Ferramentas: VSCode , Trello, Notion, Spring Boot, React.js 
 
 ## Projetos Destacados
 - [Nome do Projeto 1](link para o repositório): Breve descrição do projeto.
@@ -16,7 +16,7 @@ Eu sou Samer Macário, Técnico em Informática, atualmente cursando Bacharelado
 - LinkedIn: [[Samer Macário]](https://www.linkedin.com/in/samer-mac%C3%A1rio-29975b183/)
 - Email: [samerdcm16@gmail.com]
 
-Sinta-se à vontade para explorar meus repositórios e entrar em contato para colaborações ou apenas para bater um papo sobre tecnologia!
+Sinta-se à vontade para explorar meus repositórios e entrar em contato para colaborações ou apenas para bater um papo!
 
 
 
