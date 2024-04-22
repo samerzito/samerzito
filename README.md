@@ -9,8 +9,7 @@ Eu sou Samer Macário, Técnico em Informática, atualmente cursando Sistemas de
 - Ferramentas: VSCode , Trello, Notion, Spring Boot, React.js 
 
 ## Projetos Destacados
-- [Nome do Projeto 1](link para o repositório): Breve descrição do projeto.
-- [Nome do Projeto 2](link para o repositório): Breve descrição do projeto.
+- [Operações Contábeis](https://github.com/daninvasc2/operacoes-contabeis): Este projeto é um simulador de operações contábeis que permite ao usuário cadastrar contas, realizar lançamentos e visualizar relatório como DRE, relatório de balanço entre outros.
 
 ## Contato
 - LinkedIn: [[Samer Macário]](https://www.linkedin.com/in/samer-mac%C3%A1rio-29975b183/)
