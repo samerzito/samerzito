@@ -2,7 +2,7 @@
 # Seja Bem-vindo(a) ao meu perfil!
 
 ## Sobre Mim
-Eu sou Samer Macário, Técnico em Informática, atualmente cursando Bacharelado em Sistemas de Informação, no IFF - campus Itaperuna. Sempre em busca de aprender algo novo e colaborar em projetos interessantes.
+Eu sou Samer Macário, Técnico em Informática, atualmente cursando Sistemas de Informação, no IFF - campus Itaperuna. Sempre em busca de aprender algo novo e colaborar em projetos interessantes.
 
 ## Principais Tecnologias
 - Linguagens de Programação: Java, C, Python, HTML/CSS
